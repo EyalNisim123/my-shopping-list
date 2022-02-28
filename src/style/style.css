@@ -1,0 +1,38 @@
+
+.start-cell-class{
+  color: orange;
+  width: 10px;
+  font-size: 2em !important;
+  border-right: thin solid rgba(0, 0, 0, 0.12);
+  padding: 2px !important;
+  text-align: center !important;
+}
+.cell-class{
+   width: 130px;
+  font-size: 1em !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.text-decor{
+  text-decoration-line: line-through !important;
+  display: block !important;
+}
+.span{
+  margin-left: 50px;
+}
+.total{
+  display: flex;
+  font-size: 1.5em;
+  position: absolute;
+  left: 63px;
+  margin-top: 10px;
+}
+.btn-add{
+  position: absolute !important;
+  left: 50px;
+  margin-top: 84px;
+}
+.v-data-table > .v-data-table__wrapper > table {
+    width: auto;
+    border-spacing: 0;
+}
